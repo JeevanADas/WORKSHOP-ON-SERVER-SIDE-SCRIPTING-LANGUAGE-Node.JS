@@ -1,0 +1,1 @@
+//write server called as datetimeserver.js which recieves a reqeuest and sends back the response as both date and time
